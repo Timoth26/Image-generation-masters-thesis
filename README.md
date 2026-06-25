@@ -85,5 +85,9 @@ Trained model checkpoints and metric logs are saved during training. CSV output 
 
 ---
 
+## Example
+
+![Example results](img/example.jpg)
+
 ## Would you like to see my master's thesis?
 Feel free to contact me. The thesis is written in Polish.
